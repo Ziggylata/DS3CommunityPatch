@@ -9,29 +9,39 @@ Proposed changes:
 
 ring buffs:
 >increase absorption buff of ring of steel protection and all stoneplate rings
+
 >add effect to hawk ring which increases damage of bows/crossbows/throwing knives
+
 >additional decrease to FP consumption when wearing Farron Ring
+
 >Flynn's Ring scales based on total equip load, similar to DS2
+
 >increase HP gained from using Aldritch's Ruby
+
 >increase FP gained from using Aldritch's Sapphire
 
 rolling/backstep changes:
 >rolls either cost much more stamina or cost more stamina with each consecutive roll
+
 >decrease roll i-frames slightly
+
 >give backsteps i-frames
 
 weapons nerfs:
 
 pontiff knight CS
 >decrease damage very slightly
+
 >increase stamina consumption by a lot
 
 washing pole
 >decrease base damage
+
 >decrease max durability by a lot
 
 estoc
 >decrease str/dex scaling
+
 >decrease max durability
 
 crucifix of the mad king
@@ -50,10 +60,12 @@ weapon changes:
 
 dark sword
 >decrease dex scaling
+
 >increase str scaling
 
 RKSS
 >remove int/fth requirements
+
 >remove int/fth scaling
 
 gargoyle flame spear
@@ -61,26 +73,37 @@ gargoyle flame spear
 
 scholar's candlestick
 >remove faith requirement
+
 >add int requirement
+
 >slightly decrease sorcery boost
+
 >slightly increase base damage
+
 >instead of providing light, WA fires candle wax bullet
 
 follower torch
 >remove int/fth requirement
+
 >remove int/fth scaling
+
 >increase str scaling
+
 >greatly increase fire damage
+
 >slightly increase WA animation speed
 
 storm ruler
 >WA adds physical damage buff to weapon
+
 >WA effect disappears after about 1 min
+
 >increase speed of WA charge
 
 weapon buffs:
 painting guardian curved sword
 >increase attack speed/give dagger moveset
+
 >alternatively, increase dex scaling
 
 tailbone short sword:
@@ -103,6 +126,7 @@ greataxe
 
 great wooden hammer
 >decrease weight
+
 >probably something else too idk
 
 morne's greathammer
@@ -110,7 +134,9 @@ morne's greathammer
 
 yorshka's spear
 >increase fth scaling
+
 >increase FP drained by WA
+
 >increase WA duration
 
 follower's javelin
@@ -118,6 +144,7 @@ follower's javelin
 
 handmaid's dagger
 >increase FP restored with each hit
+
 >increase dex scaling
 
 gargoyle flame hammer
@@ -125,4 +152,5 @@ gargoyle flame hammer
 
 darkmoon longbow
 >increase magic damage
+
 >increase fth scaling
